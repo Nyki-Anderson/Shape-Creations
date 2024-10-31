@@ -8,7 +8,7 @@ status: in-progress
 ---
 
 # Shape Creations: A Full Stack Web Application Tutorial
----
+
 ## Tools
 This project utilizes `Docker` to build a secure and dynamic web application with `Apache`, `PHP`, `MariaDb`, and `PHPMyAdmin`. 
 
@@ -62,6 +62,12 @@ Tutorial edits on the other hand will happen much less often (hopefully) and are
 Ideas for future code implementations can be found in the [FUTURE.md](FUTURE.md) file and will be gradually be checked off as improvements are made. 
 
 # TLDR; Makefile
+
+## Repository Stats
+
+![GitHub Created At](https://img.shields.io/github/created-at/The-Programming-Squirrel/ShapeCreations?style=plastic&logoSize=auto&label=Project%20created)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/The-Programming-Squirrel/ShapeCreations?style=plastic&label=Last%20commit&link=https%3A%2F%2Fgithub.com%2FThe-Programming-Squirrel%2FShapeCreations%2Fcommits%2Fmain)
 
 For the truly impatient or those who simply wish to tinker with the fully developed project, I will eventually include a `Makefile` that builds the base project in its entirety. This will be added at a later date.
 
